@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package proto;
+option java_package = "ch.heigvd.amt.proto";
+
+message Persons {
+  repeated Person persons = 1;
+}
+
+message Person {
+  string name = 1;
+  int32 age = 2;
+}

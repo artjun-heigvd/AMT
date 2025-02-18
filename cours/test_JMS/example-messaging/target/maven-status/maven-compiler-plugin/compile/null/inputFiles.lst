@@ -1,0 +1,11 @@
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/stock/PriceProducer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/stock/PriceResource.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/topic/TopicConsumerA.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/queue/QueueConsumerA.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/request/RequestProducer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/queue/QueueConsumerB.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/request/RequestConsumer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/topic/TopicProducer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/queue/QueueProducer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/stock/PriceConsumer.java
+/home/ajun/Documents/HEIG/AMT/test_JMS/example-messaging/src/main/java/ch/heigvd/amt/topic/TopicConsumerB.java

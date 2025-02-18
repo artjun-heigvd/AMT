@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "amt_testResources",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

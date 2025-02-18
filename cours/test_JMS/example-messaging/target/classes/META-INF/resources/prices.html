@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prices</title>
+</head>
+<body>
+<div class="container">
+    <h2>Last price</h2>
+    <p>The last price is <span id="content">N/A</span>&nbsp;CHF</p>
+    </div>
+</div>
+</body>
+<script>
+    setInterval(function() {
+        fetch("/prices/last").then(function (response) {
+            response.text().then(function (text) {
+                document.getElementById("content").textContent = text;
+            })
+        })
+    }, 1000);
+</script>
+</html>

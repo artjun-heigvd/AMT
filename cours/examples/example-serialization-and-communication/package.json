@@ -1,0 +1,16 @@
+{
+  "name": "example-serialization-and-communication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "google-protobuf": "^3.21.4",
+    "protobufjs": "^7.4.0",
+    "protoc-gen-js": "^3.21.4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/./src/main/frontend/generated/jar-resources",
+  "themeName": "starter-theme",
+  "clientServiceWorkerSource": "/home/ajun/Documents/HEIG/AMT/lab05_projetPTCGB/amtb-lab3-amtb-haffner-junod-ray-tranchida/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
