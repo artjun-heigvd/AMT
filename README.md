@@ -3,20 +3,28 @@
 
 Les labos sont fait avec [quarkus](https://quarkus.io/)
 ## [Lab01 setup](https://github.com/artjun-heigvd/AMT/tree/main/lab01_setup)
+Groupe de 1
+
 Labo de mise en place
 > Non noté
 ## [Lab02 reflection](https://github.com/artjun-heigvd/AMT/tree/main/lab02_reflection)
+Groupe de 1
+
 Labo composé de 4 exercices
 > Non noté
 ## [Lab03 data layer](https://github.com/artjun-heigvd/AMT/tree/main/lab03_dataLayer)
+Groupe de 3
 > 5.6
 
 [Feedback](https://github.com/artjun-heigvd/AMT/blob/main/lab03_dataLayer/FEEDBACK.md)
 ## [Lab04 business layer](https://github.com/artjun-heigvd/AMT/tree/main/lab04_businessLayer)
+Groupe de 3
 > 5.4
 
 [Feedback](https://github.com/artjun-heigvd/AMT/blob/main/lab04_businessLayer/FEEDBACK.md)
 ## [Lab05 projet](https://github.com/artjun-heigvd/AMT/tree/main/lab05_projetPTCGB)
+Groupe de 3
+
 Mini-projet avec une nouvelle technologie **Vaadin** sur la création et le partage de decks *Pokémon TCG*
 > 5.5
 
